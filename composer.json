@@ -21,7 +21,6 @@
         "laravel/socialite": "^5.5",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^2.4",
-        "lke/vtwsclient": "dev-master",
         "niklasravnsborg/laravel-pdf": "*",
         "phpoffice/phpword": "^0.18.1",
         "srmklive/paypal": "~1.0",
@@ -37,12 +36,6 @@
         "nunomaduro/collision": "^4.3",
         "phpunit/phpunit": "^8.5.8|^9.3.3"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://gitlab.sailfor.it/itc/vtwsclient.git"
-        }
-    ],
     "autoload": {
         "classmap": [
             "database/seeds",
